@@ -19,7 +19,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmo1the1god&show_icons=true&theme=transparent)
   
-- 🔭 &nbspI’m currently working on something cool 😉
+- 🔭 &nbsp;I’m currently working on something cool 😉
 - 🌱 &nbsp;I’m currently learning Python, C#
 - 💬 &nbsp;Ask me about anything related to Python or C#
 - ⚡ &nbsp;Fun fact: I Love Animes :)
