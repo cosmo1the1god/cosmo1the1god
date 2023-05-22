@@ -23,3 +23,4 @@
 - 🌱 &nbsp;I’m currently learning Python, C#
 - 💬 &nbsp;Ask me about anything related to Python or C#
 - ⚡ &nbsp;Fun fact: I Love Animes :)
+- 🌐 &nbsp; Discord: Laggy-Bytes#5084
