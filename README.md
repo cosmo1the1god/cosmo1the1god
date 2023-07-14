@@ -17,7 +17,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmo1the1god&show_icons=true&theme=transparent)
+
   
 - 🔭 &nbsp;I’m currently working on something cool 😉
 - 🌱 &nbsp;I’m currently learning Python, C#
