@@ -11,7 +11,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Win/Kali/Arch-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
-    <img src="https://img.shields.io/badge/Editor-Pycharm-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
+    <img src="https://img.shields.io/badge/Editor-Pycharm/Nvim-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
     <img src="https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logoColor=white&color=blue" />
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
