@@ -22,5 +22,5 @@
 - 🔭 &nbsp;I’m currently working on something cool 😉
 - 🌱 &nbsp;I’m currently learning Python, C#
 - 💬 &nbsp;Ask me about anything related to Python or C#
-- ⚡ &nbsp;Fun fact: I Love Animes :)
+- ⚡ &nbsp;Fun fact:Fav. Anime Is Viland Saga
 - 🌐 &nbsp;Discord: Laggy-Bytes#5084
