@@ -19,8 +19,5 @@
 
 
   
-- 🔭 &nbsp;I’m currently working on something 🤷
-- 🌱 &nbsp;I’m currently learning Python, C#
-- 💬 &nbsp;Ask me about anything related to Python or C#
-- ⚡ &nbsp;Fun fact: Fav. Anime Is Rainbow: Nisha Rokubō no Shichinin
+
 - 🌐 &nbsp;Discord: laggybytes
